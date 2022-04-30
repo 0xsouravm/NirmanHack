@@ -23,6 +23,9 @@ To build a portal that bridges the gap between the chemist and the user by build
 
 - Ask for availability- when a medicine shall not be available, then the chemists in the area shall be notified regarding the demand and they shall get those. The chemist can reply to the user when they can get the medicine
 
+#Github Repo Link
+- https://github.com/SOURAVMISHRAHADES/NirmanHack
+
 # Tech Stack
 - **Bootstrap**
 - **MERN**: 
